@@ -5,14 +5,14 @@ This is an application built with the Go programming language, that will be a ma
 ## Current Features
 
 - File Viewer
-- Right now this is the only functionality. Folders can be opened and collapsed.
+  - Right now this is the only functionality. Folders can be opened and collapsed.
 
 ## Planned Features
 
 - Process Manager
   - Link Windows Task Manager, This will tell you what processes and threads are being run.
 - Memory Viewer
-  - Be able to travers and view different areas of memory
+  - Be able to traverse and view different areas of memory
 - Difference Viewer
   - Be able to take snapshots of your system and see the differences and what triggered those changes.
 
